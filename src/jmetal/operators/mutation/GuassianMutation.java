@@ -1,6 +1,5 @@
 package jmetal.operators.mutation;
 
-import cern.jet.random.Distributions;
 import cern.jet.random.Normal;
 import cern.jet.random.engine.MersenneTwister;
 import cern.jet.random.engine.RandomEngine;
@@ -18,43 +17,43 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by Rudy Steiner on 2017/4/12.
+ * Created by Rudy Steiner on 2017/4/13.
  */
-public class CauchyMutation extends  Mutation{
+public class GuassianMutation extends Mutation{
 
     /**
-     *  Valid solution types to apply this operator
+     * Valid solution types to apply this operator
      */
-
     private static final List VALID_TYPES = Arrays.asList(RealSolutionType.class,
             ArrayRealSolutionType.class) ;
-    private static final double DEFAULT_GAMMA=0.05;
-    private double gamma =DEFAULT_GAMMA;
-    RandomEngine generator;
-    Normal normal;
+    private RandomEngine generator;
+    private Normal normal;
     private Double mutationProbability_ = null;
+    private static final double DEFAULT_SIGMMA =0.1;
+    private static final double DEFAULT_U =0.0;
+    private double sigmma = DEFAULT_SIGMMA;
+    private double u = DEFAULT_U;
+    public GuassianMutation(HashMap<String, Object> parameters) {
+        super(parameters);
+        if (parameters.get("probability") != null)
+            mutationProbability_ = (Double) parameters.get("probability");
+        if (parameters.get("gamma") != null)
+            sigmma = (Double) parameters.get("sigmma");
+        generator =new MersenneTwister(new Date());
+        normal=new Normal(u,sigmma,generator);
+    }
+
     @Override
     public Object execute(Object object) throws JMException {
         Solution solution = (Solution)object;
         if (!VALID_TYPES.contains(solution.getType().getClass())) {
-            Configuration.logger_.severe("NonUniformMutation.execute: the solution " +
-                    solution.getType() + "is not of the right type");
+            Configuration.logger_.severe("NonUniformMutation.execute: the solution " + solution.getType() + "is not of the right type");
             Class cls = String.class;
             String name = cls.getName();
             throw new JMException("Exception in " + name + ".execute()") ;
         }
         doMutation(mutationProbability_,solution);
         return solution;
-    }
-
-    public CauchyMutation(HashMap<String, Object> parameters) {
-        super(parameters);
-        if (parameters.get("probability") != null)
-            mutationProbability_ = (Double) parameters.get("probability") ;
-        if (parameters.get("gamma") != null)
-            gamma = (Double) parameters.get("gamma") ;
-            generator =new MersenneTwister(new Date());
-            normal=new Normal(0,0.125,generator);
     }
     public void doMutation(double probability,Solution solution) throws JMException {
         XReal x = new XReal(solution) ;
@@ -63,10 +62,10 @@ public class CauchyMutation extends  Mutation{
                 double rand = PseudoRandom.randDouble();
                 double tmp;
                 if (rand <= 0.5) {
-                    tmp = delta(x.getUpperBound(var) - x.getValue(var), gamma);
+                    tmp = delta(x.getUpperBound(var) - x.getValue(var));
                 }
                 else {
-                    tmp = delta(x.getLowerBound(var) - x.getValue(var), gamma);
+                    tmp = delta(x.getLowerBound(var) - x.getValue(var));
                 }
                 tmp += x.getValue(var);
                 if (tmp < x.getLowerBound(var))
@@ -80,15 +79,12 @@ public class CauchyMutation extends  Mutation{
     /**
      * Calculates the delta value used in NonUniform mutation operator
      */
-    private double delta(double y,double segma) {
+    private double delta(double y) {
         double rand;
         do {
-            //rand = normal.nextDouble();
-            rand=segma * Distributions.nextCauchy(generator);
+            rand = normal.nextDouble();
         }while(rand>1.0);
-//        int it,maxIt;
-//        it    = ((Integer)getParameter("currentIteration")).intValue();//currentIteration_.intValue();
-//        maxIt = maxIterations_.intValue();
         return (y * rand);
     } // delta
+
 }

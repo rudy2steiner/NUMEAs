@@ -5,118 +5,72 @@ package jmetal.metaheuristics.NUMTheta;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 import Jama.Matrix;
-
 import jmetal.core.Algorithm;
 import jmetal.core.Operator;
 import jmetal.core.Problem;
 import jmetal.core.Solution;
 import jmetal.core.SolutionSet;
-
 import jmetal.operators.mutation.Mutation;
-
 import jmetal.operators.mutation.NonUniformMutation;
 import jmetal.operators.selection.BinaryTournament3;
 import jmetal.quality.IGD;
 import jmetal.util.*;
-
 import jmetal.util.comparators.CrowdingComparator;
 import jmetal.util.comparators.DominanceComparator;
 import jmetal.util.comparators.FitnessComparator;
-
 import jmetal.util.ranking.NondominatedRanking;
 import jmetal.util.ranking.Ranking;
 import jmetal.util.ranking.ThetaRanking;
-
 import jmetal.util.vector.NeighbourGenerator;
 import jmetal.util.vector.TwoLevelWeightVectorGenerator;
 import jmetal.util.vector.VectorGenerator;
 
-
 public class NUMThetaDEA extends Algorithm {
 	
 	private int populationSize_;   // population size
-	
-
 	private SolutionSet population_;   // current population
-	SolutionSet offspringPopulation_;  // offspring population
-	
-	SolutionSet union_;    // the union of current population and offspring population
-	
-	
-	
-	int generations_;   // generations
-
-	
+	private SolutionSet offspringPopulation_;  // offspring population
+	private SolutionSet union_;    // the union of current population and offspring population
+	private int generations_;   // generations
 	/* if only one layer is adopted, div2_=0 */
-	int div1_;  // divisions in the boundary layer
-	int div2_;  // divisions in the inside layer
-	
-	double theta_;     // parameter theta 
-	
-	Operator crossover_; // crossover
-	
-	
-	Operator polyMutation_;   // mutation operator
-	Operator nonuniformMutation_;   // mutation operator
-	Operator cauchyMutation_;   // mutation operator
-
-
-    Operator binarySelection;
-
-	
-	boolean normalize_;  // normalization or not
-	
-
-	double[][] lambda_; // reference points
-	
-
-	double[] zideal_;   // ideal point
-
-	double[] znadir_;   // nadir point
-	
-	double[][] extremePoints_; // extreme points
-	int[][] neighbour_;
-	int nrun_=20;
-	String algorithmName;
+	private int div1_;  // divisions in the boundary layer
+	private int div2_;  // divisions in the inside layer
+	private double theta_;     // parameter theta
+	private Operator crossover_; // crossover
+	private Operator polyMutation_;   // mutation operator
+	private Operator nonuniformMutation_;   // mutation operator
+	private Operator cauchyMutation_;   // mutation operator
+	private Operator binarySelection;
+	private boolean normalize_;  // normalization or not
+	private double[][] lambda_; // reference points
+	private double[] zideal_;   // ideal point
+	private double[] znadir_;   // nadir point
+	private double[][] extremePoints_; // extreme points
+	private int[][] neighbour_;
+	private int nrun_=20;
+	private String algorithmName;
 
 	public NUMThetaDEA(Problem problem) {
 		super(problem);
-	} // S2HVOThetaDEA
-	
+	} // NUMThetaDEA
 
 	public SolutionSet execute() throws JMException, ClassNotFoundException {
 		int maxGenerations;  // maximum number of generations
-
 		generations_ = 0;
-		
-		
 		/* set parameters */
 		maxGenerations = ((Integer) this.getInputParameter("maxGenerations"))
 				.intValue();
-
 		theta_ =  ((Double)this.getInputParameter("theta")).doubleValue();
-
 		div1_ = ((Integer) this.getInputParameter("div1")).intValue();
-
 		div2_ = ((Integer) this.getInputParameter("div2")).intValue();
-
 		normalize_ = ((Boolean) this.getInputParameter("normalize"))
 				.booleanValue();
-		
-
 		/* generate two-layer weight vectors */
 		VectorGenerator vg = new TwoLevelWeightVectorGenerator(div1_, div2_,
 				problem_.getNumberOfObjectives());
 		lambda_ = vg.getVectors();
-//		int neighborSize=15;
-//		neighbour_= NeighbourGenerator.generateNeighboursVector(lambda_, neighborSize);
-
-		
-		/*the population size is the same with the number of weight vectors*/
 		populationSize_ = vg.getVectors().length;
-
 		Matrix PF= ReadMatrix.readMatrix("/resources/pf/"+problem_.getName()+"("+ problem_.getNumberOfObjectives()+").dat", problem_.getNumberOfObjectives());
 		IGD igd=new IGD( PF,populationSize_,maxGenerations,10);
 		if(problem_.getName().startsWith("WFG")||problem_.getName().startsWith("SDTLZ")){
@@ -129,57 +83,36 @@ public class NUMThetaDEA extends Algorithm {
 		nonuniformMutation_ = operators_.get("NUM");  // set the mutation operator
 		cauchyMutation_ = operators_.get("CAUCHY");  // set the mutation operator
 		binarySelection=operators_.get("BS");
-
 		int run=0;
 		System.out.println(getAlgName()+" running:"+problem_.getName()+",number of obj: "+problem_.getNumberOfObjectives()+",theta:"+theta_);
 		while(run<nrun_) {
-
 			System.out.println(getAlgName()+" run:" + run);
 			initPopulation();   // initialize the population;
-
 			initIdealPoint();  // initialize the ideal point
-
 			initNadirPoint();    // initialize the nadir point
-
 			initExtremePoints(); // initialize the extreme points
-
 			Ranking ranking = new NondominatedRanking(population_);
 			igd.addIGDItem(ranking.getSubfront(0));
 			generations_ = 0;
 			while (generations_ < maxGenerations) {
-
 				createOffSpringPopulation(maxGenerations);  // create the offspring population
-
 				union_ = population_.union(offspringPopulation_);
-
 				SolutionSet[] sets = getParetoFronts();
-
 				SolutionSet firstFront = sets[0];   // the first non-dominated front
 				SolutionSet stPopulation = sets[1]; // the population used in theta-non-dominated ranking
-
 				updateIdealPoint(firstFront);  // update the ideal point
-
 				if (normalize_) {
 					updateNadirPoint(firstFront);  // update the nadir point
 					normalizePopulation(stPopulation);  // normalize the population using ideal point and nadir point
 				}
-
 				getNextPopulation(stPopulation);  // select the next population using theta-non-dominated ranking
 				if ((generations_ +1)% 10 == 0) {
 					ranking = new NondominatedRanking(population_);
 					igd.addIGDItem(ranking.getSubfront(0));
 				}
 				generations_++;
-//                if(generations_==maxGenerations) {
-//					String mutationPath = "src/resources/MValue/";
-//					String filename = getOutPutName("mutedValue",run);
-//					NonUniformMutation.mutedValue[NonUniformMutation.mutedValue.length-1]=NonUniformMutation.maxMuted;
-//					FileUtils.saveArrayToFile(this.getClass(), mutationPath, filename, NonUniformMutation.mutedValue);
-//				}
 			}
-
 			ranking = new NondominatedRanking(population_);
-
 			String classNanme=getAlgName()+"/";
 			String solutionPath="src/resources/pf_solution/"+classNanme;
 			ranking.getSubfront(0).printObjectivesToFile(solutionPath+getOutPutName("PFs",run+1));

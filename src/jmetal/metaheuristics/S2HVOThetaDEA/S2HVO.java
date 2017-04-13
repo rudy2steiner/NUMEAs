@@ -339,20 +339,14 @@ public class S2HVO extends Algorithm {
 
 			double val = Math.abs((ref[i] - zideal_[i])
 					/ (znadir_[i] - zideal_[i]));
-			
-
 			if (j != i)
 				val = val / epsilon;
-
 			if (val > max)
 				max = val;
 		}
-
 		return max;
 	}
-	
-	
-	
+
 	void initIdealPoint() {
 		int obj = problem_.getNumberOfObjectives();
 		zideal_ = new double[obj];
