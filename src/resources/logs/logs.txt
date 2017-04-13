@@ -3583,3 +3583,528 @@ objective:[3, 5, 8, 10, 15]
 开始时间戳：1492072134886ms,结束时间戳：1492074009178 ms
 持续时间：1874292ms
 --------------------
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:4
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:3
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:2
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:5
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:1
+四月 13, 2017 10:30:03 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:03 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:6
+四月 13, 2017 10:30:04 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:04 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:7
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:8
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:9
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:10
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:11
+四月 13, 2017 10:30:07 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:07 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:12
+四月 13, 2017 10:30:07 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:07 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:13
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:14
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:15
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:16
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:08 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:17
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:18
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:19
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:30:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:20
+四月 13, 2017 10:30:12 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3]
+开始时间戳：1492093800320ms,结束时间戳：1492093812531 ms
+持续时间：12211ms
+--------------------
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@5bd2e1dbcache not exist,reading
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@5bd2e1dbcache not exist,adding 
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:1
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@17f27b72cache not exist,reading
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:2
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:4
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:5
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@cd3c3eacache not exist,reading
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:43 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:3
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:36:46 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:46 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:6
+四月 13, 2017 10:36:46 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:46 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:7
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:8
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:9
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:10
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:11
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:47 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:12
+四月 13, 2017 10:36:48 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:48 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:13
+四月 13, 2017 10:36:48 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:48 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:14
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:15
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:16
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:17
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:49 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:18
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:19
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:20
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@39fdca73cache not exist,reading
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: Jama.Matrix@39fdca73cache not exist,adding 
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:1
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:36:50 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:2
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:3
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:4
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:36:51 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:5
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:6
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:7
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:8
+四月 13, 2017 10:37:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:9
+四月 13, 2017 10:37:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:05 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:10
+四月 13, 2017 10:37:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:10 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:11
+四月 13, 2017 10:37:11 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:11 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:12
+四月 13, 2017 10:37:11 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:11 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:13
+四月 13, 2017 10:37:19 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:19 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:14
+四月 13, 2017 10:37:20 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:20 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:15
+四月 13, 2017 10:37:20 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:20 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:16
+四月 13, 2017 10:37:21 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:21 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:17
+四月 13, 2017 10:37:21 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:21 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:18
+四月 13, 2017 10:37:29 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:29 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:19
+四月 13, 2017 10:37:31 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 10:37:31 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:20
+四月 13, 2017 10:37:40 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5]
+开始时间戳：1492094202713ms,结束时间戳：1492094260181 ms
+持续时间：57468ms
+--------------------
+四月 13, 2017 10:38:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).datcache not exist,reading
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).datcache not exist,reading
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).datcache not exist,reading
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).datcache not exist,reading
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).datcache not exist,reading
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:2
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:3
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA init
+信息: /resources/pf/DTLZ1(3).dat cache not exist,adding 
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:4
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:5
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:1
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:6
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:7
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:8
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:58 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:9
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:10
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:11
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:12
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:38:59 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:13
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:14
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:15
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:16
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:17
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:00 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:18
+四月 13, 2017 10:39:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:19
+四月 13, 2017 10:39:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 10:39:01 下午 jmetal.metaheuristics.AbstractThetaDEA execute
+信息: S2HVO run:20
+四月 13, 2017 10:39:03 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3]
+开始时间戳：1492094334445ms,结束时间戳：1492094343075 ms
+持续时间：8630ms
+--------------------

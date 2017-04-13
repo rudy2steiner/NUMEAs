@@ -32,18 +32,11 @@ public abstract class AbstractThetaDEA extends Algorithm{
     private int div1_;  // divisions in the boundary layer
     private int div2_;  // divisions in the inside layer
     private double theta_;     // parameter theta
-    private Operator SBXCrossover_; // crossover
-    private Operator DECrossover_; // crossover
-    private Operator polyMutation_;   // mutation operator
-    private Operator nonuniformMutation_;   // mutation operator
-    private Operator binarySelection;
-    private Operator DESelection_;
     private boolean normalize_;  // normalization or not
     private double[][] lambda_; // reference points
     private double[] zideal_;   // ideal point
     private double[] znadir_;   // nadir point
     private double[][] extremePoints_; // extreme points
-    private int[][] neighbour_;
     int maxGenerations;
     int interval=DEFAULT_INTERVAL;
     private String algorithmName;
@@ -71,7 +64,7 @@ public abstract class AbstractThetaDEA extends Algorithm{
         igd.addIGDItem(ranking.getSubfront(0));
         while (generations_ <=maxGenerations) {
             offspringPopulation_=new SolutionSet(populationSize_);
-            createOffSpringPopulation(population_,offspringPopulation_,problem_,maxGenerations);  // create the offspring population
+            createOffSpringPopulation(population_,offspringPopulation_,problem_,generations_,maxGenerations);  // create the offspring population
             union_ = population_.union(offspringPopulation_);
             SolutionSet[] sets = getParetoFronts();
             SolutionSet firstFront = sets[0];   // the first non-dominated front
@@ -121,7 +114,11 @@ public abstract class AbstractThetaDEA extends Algorithm{
         //cache pareto front for 20 independent experiments
         if((pf=paretoFrontCache.get(pfName))==null){
             pf= ReadMatrix.readMatrix(pfName,problem_.getNumberOfObjectives());
-            if(paretoFrontCache.get(pfName)==null) paretoFrontCache.put(pfName,pf);
+            Configuration.logger_.info(pfName+" cache not exist,reading");
+            if(paretoFrontCache.get(pfName)==null) {
+                paretoFrontCache.put(pfName,pf);
+                Configuration.logger_.info(pfName+" cache not exist,adding ");
+            }
         }
         //Matrix PF= ReadMatrix.readMatrix(pfName,problem_.getNumberOfObjectives());
         igd=new IGD(pf,populationSize_,maxGenerations,interval);
@@ -130,12 +127,6 @@ public abstract class AbstractThetaDEA extends Algorithm{
             igd.setProblemName(problem_.getName());
             igd.setM(problem_.getNumberOfObjectives());
         }
-//        SBXCrossover_ = operators_.get("SBX"); // set the crossover operator
-//        polyMutation_ = operators_.get("PM");  // set the mutation operator
-//        nonuniformMutation_ = operators_.get("NUMNSGAIII");  // set the mutation operator
-//        binarySelection=operators_.get("BS");
-//        DECrossover_ = operators_.get("DE");
-//        DESelection_ = operators_.get("DES");
         initOperators();
     }
 
@@ -352,15 +343,10 @@ public abstract class AbstractThetaDEA extends Algorithm{
             }
         }
     }
-
-
-
-
     public void updateExtremePoints(SolutionSet pop){
         for (int i = 0; i < pop.size(); i++)
             updateExtremePoints(pop.get(i));
     }
-
 
     public void updateExtremePoints(Solution individual){
         int obj = problem_.getNumberOfObjectives();
@@ -416,7 +402,7 @@ public abstract class AbstractThetaDEA extends Algorithm{
         }
         return algorithmName;
     }
-    public abstract void  createOffSpringPopulation(SolutionSet population,SolutionSet offSpring,Problem problem,int maxGeneration);
+    public abstract void  createOffSpringPopulation(SolutionSet population,SolutionSet offSpring,Problem problem,int curGeneration,int maxGeneration);
 
 
 }

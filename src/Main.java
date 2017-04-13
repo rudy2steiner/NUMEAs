@@ -33,7 +33,7 @@ public class Main {
         int   nobj;
         //总共有8个不同的目标函数：{"DTLZ1","DTLZ2","DTLZ3","DTLZ4","SDTLZ1","SDTLZ2","WFG6","WFG7"}
         String[] probNames={"DTLZ1"};
-        int[]   objs={3,5,8,10,15};
+        int[]   objs={3};
         try {
             FileHandler fh= new FileHandler(Environment.DEFAULT_LOG_FILE_NAME,true);
             fh.setFormatter(new SimpleFormatter());
@@ -125,7 +125,7 @@ public class Main {
         algorithm.addOperator("DE", DECrossover);
         algorithm.addOperator("SBX", SBXCrossover);
         algorithm.addOperator("PM", polyMutation);
-        algorithm.addOperator("NUMNSGAIII", nonuniformMutation);
+        algorithm.addOperator("NUM", nonuniformMutation);
         algorithm.addOperator("BS", BinarySelection);
         algorithm.addOperator("DES", DESelection);
         return algorithm;
