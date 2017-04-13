@@ -1,0 +1,7 @@
+# ignore 
+out
+src/resources/best
+src/resources/igd
+src/resources/pf_solution
+src/resources/MValue
+*.jar

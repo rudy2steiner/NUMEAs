@@ -1,0 +1,3585 @@
+四月 10, 2017 12:08:40 下午 Main main
+信息: ----------------------
+开始时间戳：1491797302963 ms,结束时间戳：1491797320179 ms
+持续时间：17216 ms
+--------------------
+四月 10, 2017 12:22:29 下午 Main main
+信息: ----------------------
+开始时间戳：1491798132030ms,结束时间戳：1491798149826 ms
+持续时间：17796ms
+--------------------
+四月 10, 2017 12:25:13 下午 Main main
+信息: ----------------------
+problems:[DTLZ3]
+objective:[3]
+开始时间戳：1491798296208ms,结束时间戳：1491798313858 ms
+持续时间：17650ms
+--------------------
+四月 10, 2017 12:36:58 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1491798436925ms,结束时间戳：1491799018649 ms
+持续时间：581724ms=10 minutes
+--------------------
+四月 10, 2017 2:38:41 下午 Main main
+信息: ----------------------
+problems:[DTLZ2, DTLZ3, DTLZ4, SDTLZ1, SDTLZ2, WFG6, WFG7]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1491799883897ms,结束时间戳：1491806321344 ms
+持续时间：6437447ms~=1.8 hours
+--------------------
+四月 10, 2017 2:46:51 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491806773434 ms,结束时间戳：1491806811275 ms
+持续时间：37841 ms
+--------------------
+四月 10, 2017 2:46:51 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: ----------------------
+problems:[DTLZ3]
+objective:[3]
+开始时间戳：1491806773402 ms,结束时间戳：1491806811306 ms
+持续时间：37904 ms
+--------------------
+四月 10, 2017 2:49:38 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491806963878 ms,结束时间戳：1491806978793 ms
+持续时间：14915 ms
+--------------------
+四月 10, 2017 2:49:38 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3]
+开始时间戳：1491806963846 ms,结束时间戳：1491806978824 ms
+持续时间：14978 ms
+--------------------
+四月 10, 2017 2:54:17 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491807242473 ms,结束时间戳：1491807257293 ms
+持续时间：14820 ms
+--------------------
+四月 10, 2017 2:56:41 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491807257340 ms,结束时间戳：1491807401091 ms
+持续时间：143751 ms
+--------------------
+四月 10, 2017 2:59:13 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491807401091 ms,结束时间戳：1491807553614 ms
+持续时间：152523 ms
+--------------------
+四月 10, 2017 3:11:55 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491807553614 ms,结束时间戳：1491808315447 ms
+持续时间：761833 ms
+--------------------
+四月 10, 2017 3:20:53 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491808315447 ms,结束时间戳：1491808853016 ms
+持续时间：537569 ms
+--------------------
+四月 10, 2017 3:20:53 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1491807242442 ms,结束时间戳：1491808853016 ms
+持续时间：1610574 ms=25
+--------------------
+四月 10, 2017 3:46:45 下午 jmetal.metaheuristics._2SHVOThetaDEA.S2HVOThetaDEA_main main
+信息: 开始时间戳：1491810390342 ms,结束时间戳：1491810405601 ms
+持续时间：15259 ms
+--------------------
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:47:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:47:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:32 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:47:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:47:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 3,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:47:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:47:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:47:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:47:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:47:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:47:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:47:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:47:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:47:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:47:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:48:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:48:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:48:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:48:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:48:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 5,theta:5.0
+四月 10, 2017 3:48:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:48:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:48:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:48:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:48:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:48:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:48:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:48:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:48:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:48:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:48:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:48:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:48:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:48:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:48:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:48:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:48:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:48:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:48:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:48:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:48:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 8,theta:5.0
+四月 10, 2017 3:48:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:48:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:48:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:48:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:48:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:48:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:48:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:48:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:48:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:48:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:48:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:49:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:49:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:49:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:49:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:49:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:49:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:49:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:49:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:49:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ2,number of obj: 10,theta:5.0
+四月 10, 2017 3:49:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:50:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:50:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 3:50:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:50:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:50:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:50:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:50:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:50:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:50:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:50:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:50:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:50:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:50:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:51:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:51:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:51:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:51:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:51:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:51:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:51:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:51:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:51:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:51:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:51:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:51:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:51:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:51:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:51:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 3:51:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:51:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:51:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:51:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:51:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:51:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:51:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:51:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:51:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:51:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:52:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:52:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:52:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:52:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:52:19 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:19 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:52:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:52:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:52:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:52:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:52:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 3:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:52:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:52:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:52:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:52:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:52:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:52:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:52:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:52:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:52:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:52:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:53:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:53:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:53:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:53:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:53:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:53:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:54:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:54:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:54:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:54:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:54:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:54:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:54:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:54:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:54:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:54:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:55:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:55:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:55:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:55:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:55:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:55:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:55:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:55:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:55:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:55:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:56:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:56:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:56:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 3:56:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 3:57:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 3:57:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 3:57:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 3:57:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 3:57:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:47 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 3:57:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:57:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 3:58:07 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:58:07 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 3:58:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:58:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 3:58:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:58:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 3:58:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:58:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 3:58:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:58:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 3:59:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 3:59:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 3:59:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 3:59:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 3:59:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:15 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 3:59:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 3:59:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 3:59:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 3:59:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 3:59:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 4:00:35 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1491810640857ms,结束时间戳：1491811235853 ms
+持续时间：594996ms
+--------------------
+四月 10, 2017 5:26:15 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 10, 2017 5:26:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 5:26:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 5:26:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 5:26:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:24 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 5:26:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 5:26:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:25 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 5:26:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 5:26:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 5:26:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 5:26:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 5:26:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 5:26:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 5:26:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 5:26:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:26:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 5:27:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 5:27:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 5:27:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 10, 2017 5:27:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 5:27:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 5:27:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 5:27:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 5:27:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 5:27:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 5:27:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 5:27:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 5:27:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 5:27:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 5:27:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 5:27:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 5:27:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 5:27:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:53 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 5:27:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 5:27:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 5:27:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:27:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:28:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 5:28:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 10, 2017 5:28:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 5:28:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:28:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 5:28:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:28:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 5:28:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:28:18 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 5:28:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:28:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 5:28:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:28:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 5:29:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:29:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 5:29:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:29:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 5:29:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:29:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 5:29:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:29:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 5:29:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:29:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 5:30:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:30:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 5:30:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:30:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 5:30:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:30:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 5:30:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:30:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 5:30:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:30:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 5:31:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:31:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 5:31:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:31:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 5:32:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:32:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 5:32:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:32:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 5:32:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 10, 2017 5:32:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 5:32:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:32:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 10, 2017 5:32:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:32:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 10, 2017 5:33:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 10, 2017 5:33:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 10, 2017 5:33:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:28 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 10, 2017 5:33:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 10, 2017 5:33:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 10, 2017 5:33:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 10, 2017 5:33:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:33:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 10, 2017 5:34:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 10, 2017 5:34:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 10, 2017 5:34:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 10, 2017 5:34:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 10, 2017 5:34:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 10, 2017 5:34:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:34:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 10, 2017 5:35:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:35:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 10, 2017 5:35:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:35:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 10, 2017 5:35:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:35:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 10, 2017 5:35:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:35:32 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 10, 2017 5:35:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 10, 2017 5:35:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 10, 2017 5:36:05 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1491816375896ms,结束时间戳：1491816965394 ms
+持续时间：589498ms
+--------------------
+四月 13, 2017 4:28:55 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:28:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:28:55 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 13, 2017 4:28:59 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:28:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:28:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 13, 2017 4:29:00 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:00 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 13, 2017 4:29:01 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 13, 2017 4:29:01 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 13, 2017 4:29:02 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 13, 2017 4:29:03 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 13, 2017 4:29:04 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 13, 2017 4:29:04 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 13, 2017 4:29:05 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 13, 2017 4:29:06 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 13, 2017 4:29:07 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:07 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:07 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 13, 2017 4:29:08 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 13, 2017 4:29:09 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 13, 2017 4:29:09 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 13, 2017 4:29:10 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 13, 2017 4:29:11 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 13, 2017 4:29:12 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:12 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 13, 2017 4:29:13 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 13, 2017 4:29:13 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 3,theta:5.0
+四月 13, 2017 4:29:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 13, 2017 4:29:14 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 13, 2017 4:29:22 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 13, 2017 4:29:30 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 13, 2017 4:29:39 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 13, 2017 4:29:49 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:49 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 13, 2017 4:29:58 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:29:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:29:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 13, 2017 4:30:06 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 13, 2017 4:30:14 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 13, 2017 4:30:22 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 13, 2017 4:30:30 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:30 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 13, 2017 4:30:38 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 13, 2017 4:30:46 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 13, 2017 4:30:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:30:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:30:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 13, 2017 4:31:02 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:02 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 13, 2017 4:31:10 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 13, 2017 4:31:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 13, 2017 4:31:29 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:29 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 13, 2017 4:31:38 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:38 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 13, 2017 4:31:48 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:31:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:31:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 13, 2017 4:32:03 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 5,theta:5.0
+四月 13, 2017 4:32:03 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 13, 2017 4:32:13 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:32:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 13, 2017 4:32:23 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:32:23 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 13, 2017 4:32:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:32:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 13, 2017 4:32:44 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:32:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 13, 2017 4:32:56 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:32:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:32:56 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 13, 2017 4:33:06 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:06 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 13, 2017 4:33:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 13, 2017 4:33:26 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:26 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 13, 2017 4:33:36 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 13, 2017 4:33:45 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 13, 2017 4:33:54 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:33:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:33:54 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 13, 2017 4:34:04 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 13, 2017 4:34:13 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 13, 2017 4:34:22 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:22 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 13, 2017 4:34:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 13, 2017 4:34:41 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:41 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:41 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 13, 2017 4:34:50 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:50 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 13, 2017 4:34:59 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:34:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:34:59 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 13, 2017 4:35:08 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:35:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:35:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 13, 2017 4:35:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:35:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 8,theta:5.0
+四月 13, 2017 4:35:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 13, 2017 4:35:27 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:35:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:35:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 13, 2017 4:36:20 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:36:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:36:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 13, 2017 4:37:05 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:37:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:37:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 13, 2017 4:37:51 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:37:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:37:51 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 13, 2017 4:38:34 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:38:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:38:34 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 13, 2017 4:39:20 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:39:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:39:20 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 13, 2017 4:40:04 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:40:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:40:04 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 13, 2017 4:40:52 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:40:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:40:52 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 13, 2017 4:41:37 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:41:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:41:37 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 13, 2017 4:42:19 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:42:19 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:42:19 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 13, 2017 4:43:01 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:43:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:43:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 13, 2017 4:43:48 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:43:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:43:48 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 13, 2017 4:44:33 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:44:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:44:33 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 13, 2017 4:45:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:45:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:45:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 13, 2017 4:45:58 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:45:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:45:58 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 13, 2017 4:46:39 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:46:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:46:39 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 13, 2017 4:47:21 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:47:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:47:21 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 13, 2017 4:48:05 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:48:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:48:05 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 13, 2017 4:48:46 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:48:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:48:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 13, 2017 4:49:27 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:49:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 10,theta:5.0
+四月 13, 2017 4:49:27 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 13, 2017 4:50:08 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:50:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:50:08 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:1
+四月 13, 2017 4:50:35 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:50:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:50:35 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:2
+四月 13, 2017 4:51:01 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:51:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:51:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:3
+四月 13, 2017 4:51:31 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:51:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:51:31 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:4
+四月 13, 2017 4:52:01 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:52:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:52:01 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:5
+四月 13, 2017 4:52:36 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:52:36 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:6
+四月 13, 2017 4:53:11 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:53:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:53:11 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:7
+四月 13, 2017 4:53:43 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:53:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:53:43 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:8
+四月 13, 2017 4:54:17 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:54:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:54:17 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:9
+四月 13, 2017 4:54:46 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:54:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:54:46 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:10
+四月 13, 2017 4:55:16 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:55:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:55:16 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:11
+四月 13, 2017 4:55:44 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:55:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:55:44 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:12
+四月 13, 2017 4:56:14 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:56:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:56:14 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:13
+四月 13, 2017 4:56:45 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:56:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:56:45 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:14
+四月 13, 2017 4:57:13 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:57:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:57:13 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:15
+四月 13, 2017 4:57:42 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:57:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:57:42 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:16
+四月 13, 2017 4:58:10 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:58:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:58:10 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:17
+四月 13, 2017 4:58:41 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:58:41 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:58:41 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:18
+四月 13, 2017 4:59:09 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:59:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:59:09 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:19
+四月 13, 2017 4:59:40 下午 Main initS2HVO
+信息: perturbation:4.0
+四月 13, 2017 4:59:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO running:DTLZ1,number of obj: 15,theta:5.0
+四月 13, 2017 4:59:40 下午 jmetal.metaheuristics.S2HVOThetaDEA.S2HVO execute
+信息: S2HVO run:20
+四月 13, 2017 5:00:09 下午 Main main
+信息: ----------------------
+problems:[DTLZ1]
+objective:[3, 5, 8, 10, 15]
+开始时间戳：1492072134886ms,结束时间戳：1492074009178 ms
+持续时间：1874292ms
+--------------------
