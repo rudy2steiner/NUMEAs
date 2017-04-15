@@ -54,10 +54,10 @@ public class CauchyMutation extends  Mutation{
         if (parameters.get("gamma") != null)
             gamma = (Double) parameters.get("gamma") ;
             generator =new MersenneTwister(new Date());
-            normal=new Normal(0,0.125,generator);
+            normal=new Normal(0,gamma,generator);
     }
     public void doMutation(double probability,Solution solution) throws JMException {
-        XReal x = new XReal(solution) ;
+        XReal x = new XReal(solution);
         for (int var = 0; var < solution.getDecisionVariables().length; var++) {
             if (PseudoRandom.randDouble() < probability) {
                 double rand = PseudoRandom.randDouble();
@@ -80,11 +80,11 @@ public class CauchyMutation extends  Mutation{
     /**
      * Calculates the delta value used in NonUniform mutation operator
      */
-    private double delta(double y,double segma) {
+    private double delta(double y,double gamma) {
         double rand;
         do {
             //rand = normal.nextDouble();
-            rand=segma * Distributions.nextCauchy(generator);
+            rand=gamma * Distributions.nextCauchy(generator);
         }while(rand>1.0);
 //        int it,maxIt;
 //        it    = ((Integer)getParameter("currentIteration")).intValue();//currentIteration_.intValue();

@@ -6,8 +6,7 @@ public class TwoLevelWeightVectorGenerator extends VectorGenerator {
 	int div1;
 	int div2;
 	int m;
-	static int gn;
-	//static ThreadLocal<Integer> gn=new ThreadLocal<Integer>();
+	int gn;
 	public TwoLevelWeightVectorGenerator(int div1, int div2, int m){
 		this.div1 = div1;
 		this.div2 = div2;
@@ -91,7 +90,7 @@ public class TwoLevelWeightVectorGenerator extends VectorGenerator {
 
 	}
 
-	static void Traverse(double[][] z, int[] tr, int m, int i, int divisions) {
+	 void Traverse(double[][] z, int[] tr, int m, int i, int divisions) {
 		if (i == (m - 1)) {
 			tr[i] = divisions;
 			for (int k = 0; k < m; k++) {
@@ -107,16 +106,10 @@ public class TwoLevelWeightVectorGenerator extends VectorGenerator {
 		}
 
 	}
-	
-	
 	public static void main(String args[]){
-/*		WeightVectorGeneratorV3 wv = new WeightVectorGeneratorV3(8, 0, 8);
-		
+		/*WeightVectorGeneratorV3 wv = new WeightVectorGeneratorV3(8, 0, 8);
 		System.out.println(wv.lambda_.length);
-		
-		
 		double[][] lambda = wv.lambda_;
-		
 		System.out.println(lambda.length);
 		for (int i = 0; i < lambda.length; i++){
 			if (lambda[i][0] == 0  || lambda[i][1] == 0
@@ -127,13 +120,9 @@ public class TwoLevelWeightVectorGenerator extends VectorGenerator {
 			for (int j = 0; j < lambda[i].length; j++){
 				System.out.print(lambda[i][j] + "\t");
 			}
-
 		//	System.out.println();
 			System.out.println();
 		}*/
-		
-		
 		System.out.println(String.format("%E", Math.pow(10, -1)));
-		
 	}
 }

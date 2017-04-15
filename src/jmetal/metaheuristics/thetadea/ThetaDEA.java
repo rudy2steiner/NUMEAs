@@ -1,10 +1,6 @@
-package jmetal.metaheuristics.thetadea;
+package jmetal.metaheuristics.ThetaDEA;
 
 
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 import Jama.Matrix;
 
@@ -14,14 +10,8 @@ import jmetal.core.Problem;
 import jmetal.core.Solution;
 import jmetal.core.SolutionSet;
 
-import jmetal.operators.mutation.Mutation;
-
 import jmetal.quality.IGD;
 import jmetal.util.*;
-
-import jmetal.util.comparators.CrowdingComparator;
-import jmetal.util.comparators.DominanceComparator;
-import jmetal.util.comparators.FitnessComparator;
 
 import jmetal.util.ranking.NondominatedRanking;
 import jmetal.util.ranking.Ranking;
@@ -117,7 +107,6 @@ public class ThetaDEA extends Algorithm {
 
 		crossover_ = operators_.get("crossover"); // set the crossover operator
 		mutation_ = operators_.get("mutation");  // set the mutation operator
-
 
 		int run=0;
 		System.out.println(getAlgName()+" running:"+problem_.getName()+",number of obj: "+problem_.getNumberOfObjectives()+",theta:"+theta_);
@@ -338,7 +327,6 @@ public class ThetaDEA extends Algorithm {
 			if (val > max)
 				max = val;
 		}
-
 		return max;
 	}
 

@@ -9,11 +9,8 @@ import jmetal.util.ranking.Ranking;
 import jmetal.util.ranking.ThetaRanking;
 import jmetal.util.vector.TwoLevelWeightVectorGenerator;
 import jmetal.util.vector.VectorGenerator;
-
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
 
 import static jmetal.util.StringUtils.combine;
 

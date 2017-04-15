@@ -37,7 +37,7 @@ public class GuassianMutation extends Mutation{
         super(parameters);
         if (parameters.get("probability") != null)
             mutationProbability_ = (Double) parameters.get("probability");
-        if (parameters.get("gamma") != null)
+        if (parameters.get("sigmma") != null)
             sigmma = (Double) parameters.get("sigmma");
         generator =new MersenneTwister(new Date());
         normal=new Normal(u,sigmma,generator);

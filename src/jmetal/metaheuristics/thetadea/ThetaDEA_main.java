@@ -1,15 +1,13 @@
-package jmetal.metaheuristics.thetadea;
+package jmetal.metaheuristics.ThetaDEA;
 
 import java.util.HashMap;
 
 import jmetal.core.Algorithm;
 import jmetal.core.Operator;
 import jmetal.core.Problem;
-import jmetal.core.SolutionSet;
 import jmetal.metaheuristics.Config;
 import jmetal.operators.crossover.CrossoverFactory;
 import jmetal.operators.mutation.MutationFactory;
-import jmetal.problems.ProblemFactory;
 import jmetal.util.JMException;
 
 public class ThetaDEA_main {
